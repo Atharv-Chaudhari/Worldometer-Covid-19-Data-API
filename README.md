@@ -1,6 +1,6 @@
 # Worldometer Covid-19 Data API
 
-[API HOme Page](https://atharv-chaudhari.github.io/Worldometer-Covid-19-Data-API/)
+[API Home Page](https://atharv-chaudhari.github.io/Worldometer-Covid-19-Data-API/)
 
 [URL for worldometer Website](https://www.worldometers.info/coronavirus/)
 
